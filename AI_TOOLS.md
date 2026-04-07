@@ -1,0 +1,6 @@
+# AI Tools Installed
+
+- DeepSeek (installed)
+- AutoGPT (installed)
+- Copilot in VSCode (installed)
+- Continue (DeepSeek) in VSCode (installed)
